@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: 'Research Experience'
 subtitle:
 
 # Date format for experience
@@ -22,24 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
+  - title: Research Intern
+    company: 'MARVIN: Artificial Intelligence and Robotics Lab'
+    company_url: 'http://marvin.imag.fr/doku.php?id=home'
+    location: Grenoble
+    date_start: '2021-06-01'
+    date_end: '2021-09-01'
+    description: Worked with Prof. Olivier Aycard to use deep learning to detect and track moving persons in 2D laser data.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Research Intern
+    company: Grenoble Informatics Laboratory, ERODS Team
+    company_url: 'https://www.liglab.fr/fr/recherche/equipes-recherche/erods'
+    location: Grenoble
+    date_start: '2021-02-01'
+    date_end: '2021-06-20'
+    description: 'Research focus was to use machine learning techniques to detect performance issues in distributed applications.'
 ---
