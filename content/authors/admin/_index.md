@@ -29,9 +29,9 @@ organizations:
     url: https://www.univ-grenoble-alpes.fr/
 education:
   courses:
-    - course: MSc in Informatics
-      institution: Université Grenoble Alpes
-      year: 2022
+    - course: MSc in Computer Science
+      institution: University of Grenoble Alpes
+      year: 2022 (expected)
     - course: BSc in Electrical/Electronic Engineering
       institution: University of Lagos
       year: 2015
